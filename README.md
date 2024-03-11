@@ -37,8 +37,3 @@ Ensure you have the following dependencies installed:
 - pgAdmin (optional but recommended)
 
 - The project was created to demonstrate SQL querying skills in the context of a music store database.
-- Special thanks to [Music Store Database Provider] for the sample database.
-
-Feel free to provide feedback or contact the contributor for further details.
-
-Happy Querying and Analyzing! 🎶📊
