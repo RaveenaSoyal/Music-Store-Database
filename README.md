@@ -17,6 +17,6 @@ The PostgreSQL database used in this project consists of multiple tables, includ
 Ensure you have the following dependencies installed:
 
 - PostgreSQL
-- pgAdmin (optional but recommended)
+- pgAdmin
 
 - The project was created to demonstrate SQL querying skills in the context of a music store database.
